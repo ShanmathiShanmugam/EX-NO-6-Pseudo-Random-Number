@@ -47,4 +47,4 @@ return 0;
 ![image](https://github.com/user-attachments/assets/1dade3ea-3b75-402b-ba26-6834c4a23949)
 
 # RESULT:
-    Hence, pseudorandom numbers are generated successfully
+Hence, pseudorandom numbers are generated successfully
